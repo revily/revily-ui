@@ -1,3 +1,5 @@
-module Revily::UI
-  VERSION = "0.0.1"
+module Revily
+  module UI
+    VERSION = "1.0.0"
+  end
 end
