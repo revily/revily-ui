@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency "bourbon"
   s.add_dependency "coffee-rails"
   s.add_dependency "ember-rails"
+  s.add_dependency "epf-rails"
   s.add_dependency "font-awesome-rails"
   s.add_dependency "foundation-rails"
   s.add_dependency "haml-rails"
