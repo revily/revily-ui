@@ -6,7 +6,7 @@ require "revily/ui/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "revily-ui"
-  s.version     = Revily::UI::VERSION
+  s.version     = Revily::Ui::VERSION
   s.authors     = ["Dan Ryan"]
   s.email       = ["dan@appliedawesome.com"]
   s.homepage    = "https://github.com/revily/revily-ui"

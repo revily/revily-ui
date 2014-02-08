@@ -1,6 +1,6 @@
 require "revily/ui/engine"
 
 module Revily
-  module UI
+  module Ui
   end
 end

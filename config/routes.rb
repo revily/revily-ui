@@ -1,2 +1,2 @@
-Revily::UI::Engine.routes.draw do
+Revily::Ui::Engine.routes.draw do
 end

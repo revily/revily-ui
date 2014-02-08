@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  mount Revily::UI::Engine => "/revily/ui"
+  mount Revily::Ui::Engine => "/revily/ui"
 end
